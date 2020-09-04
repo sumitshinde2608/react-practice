@@ -1,0 +1,11 @@
+@font-face{
+    font-family : 'aquire-font';
+    src : local('AquireBold-8Ma60'),url('AquireBold-8Ma60.otf') format('opentype');
+    /* font-weight: 600; */
+}
+
+h1{
+    font-family: 'aquire-font';
+    padding-top: 20px;
+    font-size: xx-large;
+}
